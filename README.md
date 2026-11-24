@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jazancort"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://orcid.org/0000-0003-2866-5445"><img src="https://img.shields.io/badge/ORCID-0000--0003--2866--5445-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="http://lattes.cnpq.br/4326084606086081"><img src="https://img.shields.io/badge/Lattes-CNPq-1B365D?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes"></a>
   <a href="https://github.com/Jazancort?tab=followers"><img src="https://img.shields.io/github/followers/Jazancort?logo=github&style=for-the-badge&color=18181b" alt="GitHub followers"></a>
   <a href="https://github.com/Jazancort?tab=repositories"><img src="https://img.shields.io/github/stars/Jazancort?logo=github&style=for-the-badge&color=18181b" alt="GitHub stars"></a>
 </p>
@@ -40,13 +41,9 @@ Alongside software engineering, I conduct AI and Operations Research studies at 
 ## GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jazancort&theme=github_dark&animation=load" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jazancort&name=Julio%20Azancort&theme=github_dark&animation=load" alt="Profile Details" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jazancort&theme=github_dark&animation=load" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jazancort&theme=github_dark&animation=load" alt="Most Commit Language" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jazancort&theme=github_dark&animation=load" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jazancort&theme=github_dark&timeZone=America/Belem&animation=load" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jazancort&theme=github_dark&exclude=Roff&animation=load" alt="Top Languages by Repo" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=Jazancort&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a" alt="GitHub Streak" />
 </p>
@@ -56,5 +53,6 @@ Alongside software engineering, I conduct AI and Operations Research studies at 
 <p align="center">
   <a href="https://www.linkedin.com/in/jazancort">LinkedIn</a> ·
   <a href="https://orcid.org/0000-0003-2866-5445">ORCID</a> ·
+  <a href="http://lattes.cnpq.br/4326084606086081">Lattes</a> ·
   <a href="https://github.com/Jazancort">GitHub</a>
 </p>
