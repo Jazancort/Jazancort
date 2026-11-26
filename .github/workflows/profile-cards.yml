@@ -30,8 +30,10 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           NAME: Julio Azancort
-          THEMES: github_dark
+          THEME: github_dark
           EXCLUDE: Roff
+          UTC_OFFSET: -3
+          AUTO_PUSH: false
 
       - name: Generate streak SVG card
         env:
