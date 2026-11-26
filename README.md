@@ -41,11 +41,11 @@ Alongside software engineering, I conduct AI and Operations Research studies at 
 ## GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jazancort&name=Julio%20Azancort&theme=github_dark&animation=load" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jazancort&theme=github_dark&exclude=Roff&animation=load" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Jazancort&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
