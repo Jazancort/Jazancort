@@ -39,12 +39,12 @@ jobs:
           GITHUB_USER: ${{ github.repository_owner }}
         run: python3 .github/scripts/generate_streak_card.py
 
-      - name: Commit updated SVG cards
+      - name: Publish SVG cards to cards branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/
-          if ! git diff --cached --quiet; then
-            git commit -m "profile: update activity and streak SVG cards"
-            git push
-          fi
+          git checkout --orphan cards-tmp
+          git reset
+          git add -f profile-summary-card-output/
+          git commit -m "profile: update activity and streak SVG cards"
+          git push -f origin cards-tmp:cards

@@ -41,11 +41,11 @@ Alongside software engineering, I conduct AI and Operations Research studies at 
 ## GitHub Activity & Metrics
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
   <br />
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
   <br />
-  <img src="./profile-summary-card-output/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Jazancort/Jazancort/cards/profile-summary-card-output/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
